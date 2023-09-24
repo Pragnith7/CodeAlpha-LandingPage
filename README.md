@@ -1,2 +1,2 @@
 # CodeAlpha-LandingPage
-If you're creating a lengthy survey or questionnaire, it's helpful to organize your questions into multiple pages, or sections, which you can easily rearrange and reorder. Sections also help orient your form responders consume a long survey that has been organized into smaller parts
+A landing page is a standalone web page that is created specifically for a marketing or advertising campaign. It is where a visitor “lands” after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web.
